@@ -1,4 +1,4 @@
 this is exercise
 hsg et al. 2016
 i learn git in wsu.
-purposeful merge conflict
+i win merge conflict
